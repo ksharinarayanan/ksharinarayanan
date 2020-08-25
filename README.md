@@ -1,4 +1,4 @@
-### Hi, I am Harinarayanan K S👋
+### Hi, I am Harinarayanan K S <img src="https://github.com/micha3lb3n/micha3lb3n/blob/master/gifs/hi.gif">
 
 <hr />
 
@@ -7,6 +7,22 @@ Developer 💻 and part time bug bounty hunter <img src="https://media.giphy.com
 I am a big fan of open source technologies.
 <br >
 I have been writing bash and python scripts for automating repeated tasks.
+
+Some of my popular works among the bug bounty community are:
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=micha3lb3n&repo=SSRFire">
+
+<br> <br>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=micha3lb3n&repo=SourceWolf">
+
+<br> <br>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=micha3lb3n&repo=bash-hacks">
+
+<br> <br>
+
+Here are my stats!
 
 ![](https://github-readme-stats.vercel.app/api?username=micha3lb3n&show_icons=true)
 <!--
