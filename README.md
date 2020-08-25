@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi, I am Harinarayanan K S👋
 
+<hr />
+
+Developer 💻 and part time bug bounty hunter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chennai, India ❤
+
+I am a big fan of open source technologies.
+<br >
+I have been writing bash and python scripts for automating repeated tasks.
+
+![](https://github-readme-stats.vercel.app/api?username=micha3lb3n&show_icons=true)
 <!--
 **micha3lb3n/micha3lb3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
