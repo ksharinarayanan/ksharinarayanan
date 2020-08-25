@@ -25,6 +25,17 @@ Some of my popular works among the bug bounty community are:
 Here are my stats!
 
 ![](https://github-readme-stats.vercel.app/api?username=micha3lb3n&show_icons=true)
+
+More about me:
+
+```python
+class Me:
+  blog = "https://micha3lb3n.github.io"
+  student = True
+  skills = ["Breaking web applications", "Web development"]
+  contact = "michaelben7781@gmail.com"
+```
+
 <!--
 **micha3lb3n/micha3lb3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
