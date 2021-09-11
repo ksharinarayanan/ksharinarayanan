@@ -4,7 +4,7 @@
 
 <hr />
 
-Developer 💻 and part time bug bounty hunter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chennai, India ❤
+Developer 💻 and part time bug bounty hunter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chennai, India.
 
 I love open source technologies. 🚀
 I have a lot of experience in using react 🕸️ and react native 📱
