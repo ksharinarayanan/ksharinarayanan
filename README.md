@@ -1,3 +1,13 @@
+<h3>Sponsors</h3>
+
+If my code has helped you, consider <a href="mailto:ksharinarayanan36@gmail.com">sponsoring me</a>. I'd like to thank these awesome companies for sponsoring me:
+
+<a href="https://oxylabs.io/?utm_source=ksharinarayanan&utm_medium=cpc&utm_campaign=ksharinarayanan_github_partner&adgroupid=20220303">
+<img src="https://raw.githubusercontent.com/ksharinarayanan/ksharinarayanan/master/assets/Oxylabs%20Logo%20Dark%20background.png" width="400" height="150" />
+</a>
+
+<hr />
+
 ### Hi, I am Harinarayanan K S <img src="https://github.com/ksharinarayanan/ksharinarayanan/blob/master/gifs/hi.gif" width="30">
 
 ![](https://github-readme-stats.vercel.app/api?username=ksharinarayanan&show_icons=true)
@@ -21,6 +31,5 @@ Some of my popular works among the bug bounty community are:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ksharinarayanan&repo=bash-hacks">
 
-<br>
+
